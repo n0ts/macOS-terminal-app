@@ -103,7 +103,7 @@
 	<key>WindowTitle</key>
 	<string></string>
 	<key>columnCount</key>
-	<integer>90</integer>
+	<integer>100</integer>
 	<key>deleteSendsBackspace</key>
 	<true/>
 	<key>keyMapBoundKeys</key>
@@ -220,7 +220,7 @@
 	<key>name</key>
 	<string>n0ts</string>
 	<key>rowCount</key>
-	<integer>52</integer>
+	<integer>80</integer>
 	<key>scrollOnInput</key>
 	<true/>
 	<key>shellExitAction</key>
