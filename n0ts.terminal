@@ -220,7 +220,7 @@
 	<key>name</key>
 	<string>n0ts</string>
 	<key>rowCount</key>
-	<integer>80</integer>
+	<integer>40</integer>
 	<key>scrollOnInput</key>
 	<true/>
 	<key>shellExitAction</key>
