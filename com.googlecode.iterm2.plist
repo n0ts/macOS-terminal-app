@@ -31711,7 +31711,7 @@
 	<key>LeftOption</key>
 	<integer>2</integer>
 	<key>LoadPrefsFromCustomFolder</key>
-	<true/>
+	<false/>
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSColorPanelMode</key>
@@ -35480,7 +35480,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-08-01T02:22:13Z</date>
+	<date>2014-08-02T03:28:28Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
