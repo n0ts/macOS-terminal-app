@@ -31711,11 +31711,13 @@
 	<key>LeftOption</key>
 	<integer>2</integer>
 	<key>LoadPrefsFromCustomFolder</key>
-	<false/>
+	<true/>
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSColorPanelMode</key>
-	<string>6</string>
+	<string>5</string>
+	<key>NSColorPickerPageableNameListDefaults</key>
+	<string>1Emacs</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>/Users/Shared/w/sync/iterm2</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -32531,9 +32533,9 @@
 				<key>Blue Component</key>
 				<real>1</real>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.46274510025978088</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.28235295414924622</real>
 			</dict>
 			<key>Ansi 13 Color</key>
 			<dict>
@@ -32583,7 +32585,7 @@
 			<key>Ansi 4 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.69803923368453979</real>
+				<real>1</real>
 				<key>Green Component</key>
 				<real>0.0</real>
 				<key>Red Component</key>
@@ -35480,7 +35482,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-08-02T03:28:28Z</date>
+	<date>2014-09-12T07:17:24Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
